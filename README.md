@@ -1,2 +1,0 @@
-# dron
-just another man
